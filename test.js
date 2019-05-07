@@ -3,4 +3,5 @@ function testFunc() {
     console.log('IS');
     console.log('A');
     console.log('TEST');
+    console.log('FUNCTION');
 }
